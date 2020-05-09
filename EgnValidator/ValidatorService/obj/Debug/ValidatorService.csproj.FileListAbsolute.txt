@@ -2,3 +2,8 @@ c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorServi
 c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorService\bin\Debug\ValidatorService.pdb
 c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorService\obj\Debug\ValidatorService.dll
 c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorService\obj\Debug\ValidatorService.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorService\bin\Debug\ValidatorService.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorService\bin\Debug\ValidatorService.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorService\obj\Debug\ValidatorService.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorService\obj\Debug\ValidatorService.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorService\obj\Debug\ValidatorService.pdb

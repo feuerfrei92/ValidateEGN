@@ -26,7 +26,11 @@ namespace ValidatorService
         {
             string monthString = egn.Substring(2, 2);
             int month;
-            bool success = int.TryParse(monthString, out month) && month > 0 && month < 13;
+            bool success = int.TryParse(monthString, out month) 
+                            && month > 0
+                            && month % 20 > 0
+                            && month % 20 < 13
+                            && month < Consts.MAX_MONTH;
             return success;
         }
 
@@ -36,7 +40,7 @@ namespace ValidatorService
             int year = int.Parse(yearString);
             PopulateDaysInMonths(year % 4 == 0);
             string monthString = egn.Substring(2, 2);
-            int month = int.Parse(monthString);
+            int month = int.Parse(monthString) % 20;
             string dateString = egn.Substring(4, 2);
             int date;
             bool success = int.TryParse(dateString, out date) && date > 0 && date <= _keyValueCollection[month];

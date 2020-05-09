@@ -14,5 +14,6 @@ namespace ValidatorService
         public const string InvalidDate = "Date is not valid";
         public const string InvalidLastDigit = "Last digit is incorrect";
         public const string Success = "Valid EGN";
+        public const int MAX_MONTH = 53;
     }
 }

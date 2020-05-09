@@ -65,6 +65,26 @@ namespace ValidatorTests
         }
 
         [TestMethod]
+        public void Test_Method_ValidateMonths_OldCorrect()
+        {
+            string egn = "1232567890";
+
+            bool result = _validator.ValidateMonths(egn);
+
+            Assert.IsTrue(result);
+        }
+
+        [TestMethod]
+        public void Test_Method_ValidateMonths_YoungCorrect()
+        {
+            string egn = "1252567890";
+
+            bool result = _validator.ValidateMonths(egn);
+
+            Assert.IsTrue(result);
+        }
+
+        [TestMethod]
         public void TestMethod_ValidateMonths_Incorrect()
         {
             string egn = "1234567890";
@@ -85,9 +105,49 @@ namespace ValidatorTests
         }
 
         [TestMethod]
+        public void TestMethod_ValidateDates_OldCorrect()
+        {
+            string egn = "1222297890";
+
+            bool result = _validator.ValidateDates(egn);
+
+            Assert.IsTrue(result);
+        }
+
+        [TestMethod]
+        public void TestMethod_ValidateDates_YoungCorrect()
+        {
+            string egn = "1242297890";
+
+            bool result = _validator.ValidateDates(egn);
+
+            Assert.IsTrue(result);
+        }
+
+        [TestMethod]
         public void TestMethod_ValidateDates_Incorrect()
         {
             string egn = "1402297890";
+
+            bool result = _validator.ValidateDates(egn);
+
+            Assert.IsFalse(result);
+        }
+
+        [TestMethod]
+        public void TestMethod_ValidateDates_OldIncorrect()
+        {
+            string egn = "1422297890";
+
+            bool result = _validator.ValidateDates(egn);
+
+            Assert.IsFalse(result);
+        }
+
+        [TestMethod]
+        public void TestMethod_ValidateDates_YoungIncorrect()
+        {
+            string egn = "1442297890";
 
             bool result = _validator.ValidateDates(egn);
 

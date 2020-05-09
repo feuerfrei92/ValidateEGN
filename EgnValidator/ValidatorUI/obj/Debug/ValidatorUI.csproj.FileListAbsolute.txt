@@ -11,3 +11,16 @@ c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\ob
 C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\SimpleInjector.dll
 C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\SimpleInjector.xml
 C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.ValidatorForm.resources
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\bin\Debug\ValidatorUI.exe.config
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.exe
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\bin\Debug\ValidatorUI.exe
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\bin\Debug\ValidatorUI.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\bin\Debug\SimpleInjector.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\bin\Debug\ValidatorService.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\bin\Debug\ValidatorService.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\bin\Debug\SimpleInjector.xml
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.Properties.Resources.resources
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.ValidatorForm.resources
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.csproj.GenerateResource.Cache

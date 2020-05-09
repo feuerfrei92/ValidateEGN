@@ -17,3 +17,22 @@ C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorTests
 C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorTests\bin\Debug\SimpleInjector.dll
 C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorTests\bin\Debug\ValidatorUI.pdb
 C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorTests\bin\Debug\SimpleInjector.xml
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\ValidatorTests.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\ValidatorTests.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\Castle.Core.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\Moq.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\ValidatorService.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\ValidatorUI.exe
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\SimpleInjector.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\ValidatorService.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\ValidatorUI.pdb
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\Castle.Core.xml
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\Moq.xml
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\bin\Debug\SimpleInjector.xml
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\obj\Debug\ValidatorTests.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\obj\Debug\ValidatorTests.dll
+C:\Users\Marin\Documents\gitegn\ValidateEGN\EgnValidator\ValidatorTests\obj\Debug\ValidatorTests.pdb
