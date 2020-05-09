@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorService", "ValidatorService\ValidatorService.csproj", "{1B7C86CD-9D12-4F6E-BF2C-D5455AB705A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorTests", "ValidatorTests\ValidatorTests.csproj", "{7A7D8272-B38B-4B5F-9D3A-565832AB26FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorUI", "ValidatorUI\ValidatorUI.csproj", "{3B991C07-3D65-48A5-B3BD-D8F6231D0F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7C86CD-9D12-4F6E-BF2C-D5455AB705A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7C86CD-9D12-4F6E-BF2C-D5455AB705A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7C86CD-9D12-4F6E-BF2C-D5455AB705A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7C86CD-9D12-4F6E-BF2C-D5455AB705A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7D8272-B38B-4B5F-9D3A-565832AB26FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7D8272-B38B-4B5F-9D3A-565832AB26FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7D8272-B38B-4B5F-9D3A-565832AB26FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7D8272-B38B-4B5F-9D3A-565832AB26FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B991C07-3D65-48A5-B3BD-D8F6231D0F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B991C07-3D65-48A5-B3BD-D8F6231D0F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B991C07-3D65-48A5-B3BD-D8F6231D0F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B991C07-3D65-48A5-B3BD-D8F6231D0F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

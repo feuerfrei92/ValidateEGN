@@ -1,0 +1,13 @@
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\ValidatorUI.exe.config
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\ValidatorUI.exe
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\ValidatorUI.pdb
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\ValidatorService.dll
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\ValidatorService.pdb
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.Properties.Resources.resources
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.csproj.GenerateResource.Cache
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.exe
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.pdb
+C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\SimpleInjector.dll
+C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\bin\Debug\SimpleInjector.xml
+C:\Users\Marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorUI\obj\Debug\ValidatorUI.ValidatorForm.resources

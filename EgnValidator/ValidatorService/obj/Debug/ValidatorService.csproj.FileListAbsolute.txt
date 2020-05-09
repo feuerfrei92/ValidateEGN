@@ -1,0 +1,4 @@
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorService\bin\Debug\ValidatorService.dll
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorService\bin\Debug\ValidatorService.pdb
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorService\obj\Debug\ValidatorService.dll
+c:\users\marin\documents\visual studio 2013\Projects\EgnValidator\ValidatorService\obj\Debug\ValidatorService.pdb
